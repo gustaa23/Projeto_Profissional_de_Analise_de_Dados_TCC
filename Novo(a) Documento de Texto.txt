@@ -1,0 +1,4 @@
+Professora natalia disse que todo o titulo de gráfico deve ser exemplo: "Ciencia da População"
+Nunca usar gráfico 3D, poluído, nuncar usar gráfico redondo com mais de 4 informações
+Nunca colocar um dado na frente de outro ou em posições estranhas tipo vários gráficos de barra em fileira 3D
+ela quer um gráfico usando a base financeira não poluída
